@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://catunic.art
+
+# Sitemaps
+Sitemap: https://catunic.art/sitemap.xml
